@@ -316,7 +316,7 @@ footer {
 
 @media only screen and (max-width:923px){
     .menu p{display: none;}   
-
+    .menu img{max-width: 25px}
 }
 
 @media only screen and (max-width:923px){
