@@ -256,3 +256,60 @@ footer {
     margin: 0;
 
 }
+
+@media only screen and (max-width:923px)
+{ .marrom 
+    {width: 95%;
+    padding: 25px 25px;
+    margin-right: 150px;};
+
+}
+@media only screen and (max-width:923px)
+{.contato{
+    width: 100%;
+    padding: 25px 25px;
+    margin-right: 150px;
+  }}
+
+@media only screen and (max-width:923px)
+
+{  
+    .sobre p{
+        text-align: justify;
+        max-width: 90%;
+        padding: auto;
+        margin: auto;
+    
+    }
+    
+    .sobre {
+        padding: 20px 0;
+        text-align: center;
+        color: #fff;
+    }
+    
+    .sobre h6 {
+        margin: 5px 0;
+    }
+    
+
+}
+@media only screen and (max-width:923px){
+.recheio p{
+    text-align: justify;
+    max-width: 90%;
+    padding: auto;
+    margin: auto;
+
+}
+
+.recheio {
+    padding-bottom: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.recheio h6 {
+    margin: 0;
+
+}}
